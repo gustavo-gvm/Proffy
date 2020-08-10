@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+
+# macOS
+.DS_Store
+=======
+node_modules
+>>>>>>> a36b544f5ac67e9413a8b1cf643af711bb063945
